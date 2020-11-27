@@ -1,0 +1,6 @@
+[data-component=app] {
+  padding: 1em;
+  min-height: 10em;
+  background-color: #fff;
+  color: #000;
+}
